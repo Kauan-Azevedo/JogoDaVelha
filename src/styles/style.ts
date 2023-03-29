@@ -30,3 +30,9 @@ export const Square = styled("button")`
     border: 2px solid gray;
     cursor: pointer;
 `;
+
+export const Status = styled("div")`
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+`;
