@@ -9,4 +9,4 @@ RUN yarn build
 
 EXPOSE 9000
 
-CMD yarn preview
+CMD yarn start
